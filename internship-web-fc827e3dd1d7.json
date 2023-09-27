@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "internship-web",
+  "private_key_id": "fc827e3dd1d73aff206ef0f62836e9dcc871c913",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/WQmxKMCIj1Mo\nZyt4kQn9nNOSlpU3yGDz+xqYvXlkCqIxDT3GKIsrVZaoJpNg+M6nbhQWbyxCWbAx\ndPeF99p8UB/FyKEcWuN2kVSkQ0Odgx+vcU2zIeNkNQlOcIat8ts10jIwM9NBRlG1\nltgcKs64JdgdEez3cFO5wrGNJ6xO0WcWkf+5PcYjnXmCSpOQSrMGbVwy9/GRBxZd\nDGGoEO3Z7hn/eLGoKWNRcXyPBPQKsxgQkxiHm+0FGj1RH5AN6ZDB2BhYnd/K6MDm\nGjB72TPkRvY+e9BXBtyhdmnwE+VTX2TZRy11qIht7AvbMCo6U7CBNPB4I7VrW65s\nE83RWy4jAgMBAAECggEAAws1CsLlsSZqgbmGaQARox2kBfBsRjtjQ25KoYReEnfS\n1anqwiSx9goCAAHBFWlPzD0Fh8fT8ehAU8ETEOf86z5RCxHicjOF68RrDsPdJvvH\nfMB2JnPTDKyFTeCfW9QBpa0GzFp+sUqfkR5pqKULrcU4V1oKJXN9eXZ94Ytwg75s\n9AxPRYnH+Tiji4ng52T46vRexLcFt0g3gPCne2CC3xdtf0OfIb77/9JBzn6JoLUA\nUujmkylNhbI7KiXGK0IfrLi5D/o8CkprXTmjfoyrFTcVH8dSki/qBCerlO33k0OM\n9x3nhfgqKd/EVFDZ0u5IzeG6KEhKxWftcr8nJTuGkQKBgQDlrANSjCsoHNfILdZS\nf3506iQJPWYk1n8cuVBBxCKBJq396i2ndhBxw74G3vHDzAIzr6b73E8bBP2cE8+d\nizOoaUn4qfWuTHrNBZWLTqPJdUa03ENzAaAu0gbPTv0CM4/hKFsDJQPGZ/9nPmRb\n3fr8GksGNdpd3k8QUlcM41eX0QKBgQDVSFwDCbLYOXQZpp0nlS/dYFwODsqKuFZs\nhlnrFiaY/8r0QThHnnw2ujU1aUSjuPMvydh4fqM2roXD5M060jOHocIdDfxLZQYK\njmBe5jNrMuuLdIcayJL0BkYLr8+sLyCd7N89IbHc5x+MKJmtQ2UrtIEMwh1fe7Ay\n3ogbU0RXswKBgQCOjQ5e3PsoYYaZC8I74EA4Bt+pEH/mm2+3/1lOCJO1/7D8qa3+\ng6w/QFQg5Z2/fk9bj0mgh6Rdy+IxTqaNTUoZ3If6HFuN/JA30qB4H65PK0hgl1oR\n9s9aYCez4n3tMN27zZV3xTCro/8FMNePoZ7XfOZWC3Tm0EXYhpLbP/wtEQKBgCAQ\nweye/6lscd0NZKE317tjqlNeu+rBLhUg2dHzQZhNFLlGOOzjke80bZ17Fxu6Sa2M\nniP3fhhRgsDh3E0UnzSsCCAQIzc+l/rsTubVmzNps2oC+fD36MgRTWSiaQmNCE1V\n+HYbY78/bEnJLNmUwVghyikd4gah9Oqg9DuPeD3rAoGARhmAVf6AoFnjZEzLlgS1\nkTqXvJQRTdtOb5Fx32myOf8J7ICMzsLnV+ZdHjvbfBpljMe+X2IemXJn8LabEORZ\njn/Tb9WdDOmF2KPgwI+3B7SxtUVM4flWkIqLhwbTi2p6lsC4YgZIKU7S8Lq5p4hQ\n0/X3MV5dU3oCfpMCuTbhwSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "web-dev@internship-web.iam.gserviceaccount.com",
+  "client_id": "114282964172190615514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/web-dev%40internship-web.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
